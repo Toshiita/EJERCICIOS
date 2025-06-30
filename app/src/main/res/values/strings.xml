@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tus Contactos</string>
+    <string name="descripcion_imagen_perfil">Imagen de perfil del contacto</string>
+    <string name="seleccionar_imagen">Seleccionar Imagen</string>
+    <string name="pais">País</string>
+    <string name="nombre">Nombre</string>
+    <string name="ej_jose_de_jesus_sarmiento">Ej: Jose de Jesus Sarmiento</string>
+    <string name="telefono">Teléfono</string>
+    <string name="ej_99765645">Ej: 9976-5645</string>
+    <string name="nota">Nota</string>
+    <string name="ej_conocido_desde_la_secundaria">Ej: Conocido desde la secundaria</string>
+    <string name="salvar_contacto">Salvar Contacto</string>
+    <string name="contactos_salvados">Contactos Salvados</string>
+
+    <string-array name="paises_array">
+        <item>Honduras (504)</item>
+        <item>Costa Rica (506)</item>
+        <item>Guatemala (502)</item>
+        <item>El Salvador (503)</item>
+    </string-array>
+
+    <string name="alerta_nota_vacia">Debe escribir una nota</string>
+    <string name="alerta_telefono_vacio">Debe escribir un teléfono</string>
+    <string name="alerta_nombre_vacio">Debe escribir un nombre</string>
+    <string name="alerta_telefono_invalido">El número de teléfono debe tener 8 dígitos</string>
+
+    <string name="atras">Atrás</string>
+    <string name="buscar">Buscar</string>
+    <string name="accion">Acción</string>
+    <string name="desea_llamar_a">¿Desea llamar a %s?</string>
+    <string name="si">Sí</string>
+    <string name="no">No</string>
+    <string name="compartir_contacto">Compartir Contacto</string>
+    <string name="ver_imagen">Ver Imagen</string>
+    <string name="eliminar_contacto">Eliminar Contacto</string>
+    <string name="actualizar_contacto">Actualizar Contacto</string>
+</resources>
